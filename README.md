@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hola, mi nombre es Adrián, actualmente estoy buscando entrar dentro del campo del desarrollo formalmente, <br>comence estudiando desarrollo web de forma autodidacta desde el 2021 y hasta la fecha he obtenido conocimiento en diferentes tecnologias en diferentes medidas, <br>principalmente en JavaScript. <br><br>A lo largo de ese tiempo he tenido experiencia desarrollando y creando aplicaciones pequeñas <br>tales como un site de documentacion de Js basico.<br><br>El objectivo que tengo ahora mismo es poder seguir implementando esos conociminetos en la practica para desarrollarlos aun mas, <br>al mismo tiempo que sigo formandome en otras tecnologias.
+Hola, mi nombre es Adrián, soy un desarrolador web con principal interes en el area backend, <br>comence estudiando desarrollo web de forma autodidacta y hasta la fecha he obtenido conocimiento en diferentes tecnologias en diferentes medidas, <br>principalmente en JavaScript. <br><br>A lo largo de ese tiempo me he dedicado a seguir practicando buscando desarrollarme de la mejor manera creando aplicaciones pequeñas.<br><br>El objectivo que tengo ahora mismo es poder seguir implementando esos conociminetos en la practica para desarrollarlos aun mas, <br>al mismo tiempo que sigo formandome en otras tecnologias.
 
 
 ## 🌐 Socials:
