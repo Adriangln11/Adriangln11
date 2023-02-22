@@ -1,5 +1,9 @@
 # 💫 About Me:
-Hola, mi nombre es Adrián, soy un desarrolador web con principal interes en el area backend, <br>comence estudiando desarrollo web de forma autodidacta y hasta la fecha he obtenido conocimiento en diferentes tecnologias en diferentes medidas, <br>principalmente en JavaScript. <br><br>A lo largo de ese tiempo me he dedicado a seguir practicando buscando desarrollarme de la mejor manera creando aplicaciones pequeñas.<br><br>El objectivo que tengo ahora mismo es poder seguir implementando esos conociminetos en la practica para desarrollarlos aun mas, <br>al mismo tiempo que sigo formandome en otras tecnologias.
+Hola, mi nombre es Adrián, soy un desarrolador web con principal interes en el area backend, hace mas de dos años que experimento con JavaScript y las tecnologias basicas en el desarrollo web, HTML, CSS, ultimamente con NodeJs, y SQL del lado del backend, aunque tambien he utilizado algo de ReacJs.
+
+El objetivo que tengo ahora mismo es poder ganar mas experiencia creando proyectos y participando en voluntariados que me permitan crecer de manera profesional haciendo lo que me gusta.
+        
+Si te interesa saber un poco mas de mi o te gustaria expresarme alguna recomendacion o presentarme algun proyecto que te gustaria crear, estoy a tus ordenes.
 
 
 ## 🌐 Socials:
