@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hola, mi nombre es Adrián, soy un desarrollador Web con principal  interés en el área backend, hace mas de dos años que experimento con JavaScript y las tecnologías básicas en el desarrollo Web, HTML, CSS, últimamente con NodeJs, y SQL del lado del backend, aunque también he utilizado algo de ReacJs. 
+Hola, mi nombre es Adrián, soy un desarrollador Web con principal  interés en el área backend, hace mas de dos años que experimento con JavaScript y las tecnologías básicas en el desarrollo Web, HTML, CSS, últimamente con NodeJs, y SQL del lado del backend, aunque también he utilizado algo de ReactJs. 
             
 El objetivo que tengo ahora mismo es poder ganar mas experiencia creando proyectos y participando en voluntariados que me permitan crecer de manera profesional haciendo lo que me gusta. 
             
