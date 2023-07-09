@@ -1,9 +1,6 @@
 # 💫 About Me:
-Hola, mi nombre es Adrián, soy un desarrollador Web con principal  interés en el área backend, hace mas de dos años que experimento con JavaScript y las tecnologías básicas en el desarrollo Web, HTML, CSS, últimamente con NodeJs, y SQL del lado del backend, aunque también he utilizado algo de ReactJs. 
-            
-El objetivo que tengo ahora mismo es poder ganar mas experiencia creando proyectos y participando en voluntariados que me permitan crecer de manera profesional haciendo lo que me gusta. 
-            
-Si te interesa saber un poco mas de mi o te gustaría expresarme alguna recomendación o presentarme algún proyecto que te gustaría crear, estoy a tus ordenes.
+Mi nombre es Adrián, tengo 3 años de experiencia con Javascript desarrollando aplicaciones que me han servido para poner en práctica las cosas aprendidas, tanto del lado del frontend, como del lado del backend.
+Actualmente me encuentro participando en programas que me ayuden a desarrollarme profesionalmente, como DigitalNao y Oracle Next Education, programas en los cuales he puesto en práctica mis habilidades técnicas y blandas, desarrollando proyectos en diferentes lenguajes como Java o python, tecnologías como AWS,  y gestionandolos a través de metodologías ágiles
 
 
 ## 🌐 Socials:
