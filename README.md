@@ -1,7 +1,7 @@
 # 💫 About Me:
 Mi nombre es Adrián, tengo 3 años de experiencia con Javascript desarrollando aplicaciones que me han servido para poner en práctica las cosas aprendidas, tanto del lado del frontend, como del lado del backend.
 
-Actualmente me encuentro participando en programas que me ayuden a desarrollarme profesionalmente, como DigitalNao y Oracle Next Education, programas en los cuales he puesto en práctica mis habilidades técnicas y blandas, desarrollando proyectos en diferentes lenguajes como Java o python, tecnologías como AWS,  y gestionandolos a través de metodologías ágiles
+Actualmente me encuentro estudiando Ingeniería Informatica, y he finalizado varios programas como DigitalNao y Oracle Next Education, programas en los cuales he puesto en práctica mis habilidades técnicas y blandas, desarrollando proyectos en diferentes lenguajes como Java o python, tecnologías como AWS,  y gestionandolos a través de metodologías ágiles
 
 
 ## 🌐 Socials:
